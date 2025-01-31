@@ -1,4 +1,5 @@
 # Personalized-Student-Recommendations
+It is a Python-based solution that analyzes quiz performance, generates insights, and provides personalized recommendations. Additionally, it includes a probabilistic model to predict the student's NEET rank.
 This script:
 
 1.Analyzes student quiz performance.
